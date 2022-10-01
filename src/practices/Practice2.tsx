@@ -9,7 +9,7 @@ export const Practice2 = () => {
   return (
     <div>
       <p>Practice2:Type of Output from function</p>
-      <button onClick={onClickPractice}>Practice1 start</button>
+      <button onClick={onClickPractice}>Practice2 start</button>
     </div>
   );
 };
